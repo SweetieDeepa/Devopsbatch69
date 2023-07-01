@@ -1,3 +1,5 @@
 hello
 this is my first prog in GIT
 this is editing
+
+This is amazing, code is already pushed to GitHub
